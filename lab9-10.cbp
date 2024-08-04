@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lab1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lab1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="D:/Program Files/CodeBlocks/MinGW/lib/winmm.Lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lab1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Dawg1.txt" />
+		<Unit filename="Dawg2.txt" />
+		<Unit filename="Dawg3.txt" />
+		<Unit filename="Execution1.txt" />
+		<Unit filename="Execution2.txt" />
+		<Unit filename="Execution3_1.txt" />
+		<Unit filename="Execution3_2.txt" />
+		<Unit filename="Execution3_3.txt" />
+		<Unit filename="Execution3_4.txt" />
+		<Unit filename="Knight1.txt" />
+		<Unit filename="Knight2.txt" />
+		<Unit filename="Knight3.txt" />
+		<Unit filename="MGR1.txt" />
+		<Unit filename="MGR2.txt" />
+		<Unit filename="MGR3.txt" />
+		<Unit filename="Players.txt" />
+		<Unit filename="RepoFile.cpp" />
+		<Unit filename="RepoFile.h" />
+		<Unit filename="Repository.cpp" />
+		<Unit filename="Repository.h" />
+		<Unit filename="Service.cpp" />
+		<Unit filename="Service.h" />
+		<Unit filename="Sundowner1.txt" />
+		<Unit filename="Sundowner2.txt" />
+		<Unit filename="Sundowner3.txt" />
+		<Unit filename="UI.cpp" />
+		<Unit filename="UI.h" />
+		<Unit filename="Validare.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
+		<Unit filename="tests.cpp" />
+		<Unit filename="tests.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

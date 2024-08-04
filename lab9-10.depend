@@ -1,0 +1,263 @@
+# depslib dependency file v1.0
+1677778549 source:c:\users\frosty lumberjack\documents\codeblocks\lab1\main.cpp
+	<iostream>
+	<cmath>
+
+1677777887 source:c:\users\frosty lumberjack\documents\codeblocks\lab1\problema.cpp
+	<iostream>
+	"tests.h"
+	"main.h"
+
+1677776651 c:\users\frosty lumberjack\documents\codeblocks\lab1\tests.h
+
+1677778637 c:\users\frosty lumberjack\documents\codeblocks\lab1\main.h
+
+1677778600 source:c:\users\frosty lumberjack\documents\codeblocks\lab1\tests.cpp
+	"tests.h"
+	"main.h"
+	<iostream>
+	<assert.h>
+
+1678189313 source:c:\users\frosty lumberjack\documents\codeblocks\lab2\tests.cpp
+	"tests.h"
+	"problema.h"
+	<iostream>
+	<assert.h>
+
+1677776651 c:\users\frosty lumberjack\documents\codeblocks\lab2\tests.h
+
+1678789748 source:c:\users\frosty lumberjack\documents\codeblocks\lab2\main.cpp
+	<iostream>
+	"tests.h"
+	"problema.h"
+
+1678189313 c:\users\frosty lumberjack\documents\codeblocks\lab2\problema.h
+
+1678792562 source:c:\users\frosty lumberjack\documents\codeblocks\lab2\problema.cpp
+	<iostream>
+	<cmath>
+
+1680601726 source:c:\users\frosty lumberjack\documents\codeblocks\lab4\tests.cpp
+	"tests.h"
+	"dreptunghi.h"
+	"operatie.h"
+	"Repository.h"
+	<iostream>
+	<tuple>
+	<assert.h>
+
+1677780251 c:\users\frosty lumberjack\documents\codeblocks\lab4\tests.h
+
+1679343851 c:\users\frosty lumberjack\documents\codeblocks\lab4\problema.h
+
+1680601859 source:c:\users\frosty lumberjack\documents\codeblocks\lab4\main.cpp
+	<iostream>
+	<tuple>
+	"tests.h"
+	"dreptunghi.h"
+	"Repository.h"
+	"operatie.h"
+
+1679343851 source:c:\users\frosty lumberjack\documents\codeblocks\lab4\problema.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+
+1679393632 c:\users\frosty lumberjack\documents\codeblocks\lab4\complex.h
+	<iostream>
+
+1679353554 source:c:\users\frosty lumberjack\documents\codeblocks\lab4\complex.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	<string.h>
+	"complex.h"
+
+1680601840 source:c:\users\frosty lumberjack\documents\codeblocks\lab4\repository.cpp
+	<iostream>
+	<cmath>
+	<tuple>
+	"dreptunghi.h"
+	"operatie.h"
+	"Repository.h"
+	<map>
+
+1680600554 c:\users\frosty lumberjack\documents\codeblocks\lab4\repository.h
+	"dreptunghi.h"
+	<map>
+
+1680601482 source:c:\users\frosty lumberjack\documents\codeblocks\lab4\dreptunghi.cpp
+	<iostream>
+	<cmath>
+	"dreptunghi.h"
+
+1680545511 c:\users\frosty lumberjack\documents\codeblocks\lab4\dreptunghi.h
+	<iostream>
+	<tuple>
+
+1679400309 source:c:\users\frosty lumberjack\documents\codeblocks\lab4\operatie.cpp
+	<iostream>
+	<cmath>
+	"operatie.h"
+
+1680540306 c:\users\frosty lumberjack\documents\codeblocks\lab4\operatie.h
+	"dreptunghi.h"
+
+1682975949 source:c:\users\frosty lumberjack\documents\codeblocks\lab7-8\repository.cpp
+	<iostream>
+	"cheltuieli.h"
+	"UI.h"
+	"Repository.h"
+
+1682976989 c:\users\frosty lumberjack\documents\codeblocks\lab7-8\repository.h
+	"cheltuieli.h"
+
+1683019394 source:c:\users\frosty lumberjack\documents\codeblocks\lab7-8\tests.cpp
+	"tests.h"
+	"cheltuieli.h"
+	"UI.h"
+	"Repository.h"
+	"Service.h"
+	<iostream>
+	<cstring>
+	<assert.h>
+
+1677780251 c:\users\frosty lumberjack\documents\codeblocks\lab7-8\tests.h
+
+1682975018 source:c:\users\frosty lumberjack\documents\codeblocks\lab7-8\cheltuieli.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	"cheltuieli.h"
+
+1682974037 c:\users\frosty lumberjack\documents\codeblocks\lab7-8\cheltuieli.h
+	<iostream>
+
+1683018485 source:c:\users\frosty lumberjack\documents\codeblocks\lab7-8\main.cpp
+	<iostream>
+	"tests.h"
+	"cheltuieli.h"
+	"Repository.h"
+	"UI.h"
+	"Service.h"
+
+1682963525 c:\users\frosty lumberjack\documents\codeblocks\lab7-8\ui.h
+	<iostream>
+	"cheltuieli.h"
+	"Repository.h"
+	"Service.h"
+
+1682980844 source:c:\users\frosty lumberjack\documents\codeblocks\lab7-8\ui.cpp
+	<iostream>
+	<cstring>
+	"cheltuieli.h"
+	"Repository.h"
+	"Service.h"
+	"UI.h"
+
+1682980364 c:\users\frosty lumberjack\documents\codeblocks\lab7-8\service.h
+	<iostream>
+	"cheltuieli.h"
+	"Repository.h"
+
+1683019394 source:c:\users\frosty lumberjack\documents\codeblocks\lab7-8\service.cpp
+	<iostream>
+	<cstring>
+	"cheltuieli.h"
+	"Repository.h"
+	"Service.h"
+
+1722794969 source:c:\users\frosty lumberjack\documents\codeblocks\lab9-10\repository.cpp
+	<iostream>
+	"player.h"
+	"UI.h"
+	"Repository.h"
+	"Validare.h"
+
+1683021624 c:\users\frosty lumberjack\documents\codeblocks\lab9-10\ui.h
+	<iostream>
+	"player.h"
+	"Repository.h"
+	"Service.h"
+
+1684183653 c:\users\frosty lumberjack\documents\codeblocks\lab9-10\repository.h
+	"player.h"
+
+1684232284 c:\users\frosty lumberjack\documents\codeblocks\lab9-10\service.h
+	<iostream>
+	"player.h"
+	"Repository.h"
+	"RepoFile.h"
+
+1722795123 source:c:\users\frosty lumberjack\documents\codeblocks\lab9-10\service.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+	<string>
+	<cstdlib>
+	<stdlib.h>
+	"player.h"
+	"Repository.h"
+	"Service.h"
+	<random>
+
+1722794995 source:c:\users\frosty lumberjack\documents\codeblocks\lab9-10\tests.cpp
+	"tests.h"
+	"player.h"
+	"UI.h"
+	"Repository.h"
+	"RepoFile.h"
+	"Service.h"
+	<iostream>
+	<cstring>
+	<assert.h>
+
+1677780251 c:\users\frosty lumberjack\documents\codeblocks\lab9-10\tests.h
+
+1722793959 source:c:\users\frosty lumberjack\documents\codeblocks\lab9-10\ui.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<windows.h>
+	<cstdlib>
+	<stdlib.h>
+	"player.h"
+	"Repository.h"
+	"Service.h"
+	"UI.h"
+
+1684180844 c:\users\frosty lumberjack\documents\codeblocks\lab9-10\player.h
+	<iostream>
+
+1684181718 source:c:\users\frosty lumberjack\documents\codeblocks\lab9-10\main.cpp
+	<iostream>
+	"tests.h"
+	"player.h"
+	"Repository.h"
+	"RepoFile.h"
+	"UI.h"
+	"Service.h"
+
+1684180999 source:c:\users\frosty lumberjack\documents\codeblocks\lab9-10\player.cpp
+	<iostream>
+	<cmath>
+	<cstring>
+	"player.h"
+
+1684228531 c:\users\frosty lumberjack\documents\codeblocks\lab9-10\repofile.h
+	"player.h"
+	"Repository.h"
+
+1684228531 source:c:\users\frosty lumberjack\documents\codeblocks\lab9-10\repofile.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"player.h"
+	"UI.h"
+	"Repository.h"
+	"RepoFile.h"
+
+1684785229 c:\users\frosty lumberjack\documents\codeblocks\lab9-10\validare.h
+

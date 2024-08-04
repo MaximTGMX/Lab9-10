@@ -1,0 +1,5 @@
+Barosu 400 15 28
+Caine 90 8 0
+Musculosu 240 40 16
+Marcel 1 20 9
+Jack 1000 400 40
